@@ -17,7 +17,7 @@ Saya senang menerima **umpan balik**, saran, atau bahkan issue di repository say
 ---
 
 <div align="center">
-  <img src="https://pin.it/5VaiUlAEp" width="220" alt="Robot"/>
+  <img src="robot.png" width="220" alt="Robot"/>
 </div>
 
 ---
