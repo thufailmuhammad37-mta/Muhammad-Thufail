@@ -14,13 +14,6 @@ Saya senang menerima **umpan balik**, saran, atau bahkan issue di repository say
 
 ⭐ Jangan ragu untuk mengikuti saya - saya akan sangat menghargai dukungan Anda!
 
----
-
-<div align="center">
-  <img src="https://github.com/thufailmuhammad37-mta/Muhammad-Thufail/commit/891168510812873f49795f50c88266c7325188b2" width="220" alt="Robot"/>
-</div>
-
----
 
 Terima kasih telah mengunjungi halaman saya 
 
