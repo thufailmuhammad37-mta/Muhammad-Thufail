@@ -17,7 +17,7 @@ Saya senang menerima **umpan balik**, saran, atau bahkan issue di repository say
 ---
 
 <div align="center">
-  <img src="robot.png" width="220" alt="Robot"/>
+  <img src="https://github.com/thufailmuhammad37-mta/Muhammad-Thufail/blob/main/robot.png.jpg" width="220" alt="Robot"/>
 </div>
 
 ---
